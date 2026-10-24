@@ -6,6 +6,7 @@ This is a standalone, static website for the Music Box App Store product and sup
 
 - `index.html` — multilingual product and marketing page
 - `support/index.html` — multilingual help, FAQ, and public support contact
+- `privacy/index.html` — multilingual privacy policy for the app and public website
 - `assets/app-icon.png` — the app icon used on both pages
 - `styles.css` — shared responsive styles
 
@@ -17,5 +18,6 @@ This is a standalone, static website for the Music Box App Store product and sup
 4. Once GitHub Pages finishes publishing, use the generated HTTPS URLs:
    - Marketing URL: `https://<username>.github.io/musicbox-app-store-site/`
    - Support URL: `https://<username>.github.io/musicbox-app-store-site/support/`
+   - Privacy Policy URL: `https://<username>.github.io/musicbox-app-store-site/privacy/`
 
 The support page publishes `xuehui1004@gmail.com`, the contact address already shown in the app. GitHub Pages sites are public; keep credentials and private information out of this directory.
